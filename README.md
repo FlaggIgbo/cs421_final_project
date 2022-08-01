@@ -1,2 +1,2 @@
 # My Final Project
-The respository contains Lib.hs which can run all the functions and test them.
+The respository contains files (one in haskell and one in python) which can run all the functions and test them.
