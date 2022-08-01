@@ -1,2 +1,2 @@
-# cs421_final_project
-CS421 Final Project
+# My Final Project
+The respository contains Lib.hs which can run all the functions and test them.
